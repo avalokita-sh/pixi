@@ -6,7 +6,6 @@ class ImageCard extends React.Component{
 
 		this.state = { spans:0 }
 
-		//document.querySelector to get height of an img
 		this.imageRef = React.createRef();
 	}
 
